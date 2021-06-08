@@ -1,0 +1,15 @@
+.flex {
+ display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.list-none {
+  list-style: none; 
+}
